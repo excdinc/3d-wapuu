@@ -24,3 +24,7 @@ This version is polygon model only.
 
 = 1.0 - March 2 2015 =
 * Initial release.
+
+
+
+<img alt=h3D Wapuuh src=hhttps://raw.github.com/wiki/kassy000/3d-wapuu/images/wapuu.pngh />
