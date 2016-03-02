@@ -26,4 +26,4 @@ This version is polygon model only.
 * Initial release.
 
 
-![3D Wapuu](3d-wapuu/images/wapuu.png)
+![3D Wapuu](https://github.com/kassy000/3d-wapuu/blob/master/images/wapuu.png)
