@@ -1,6 +1,6 @@
 # 3D Wapuu
 
-[model Preview](./models/for_the_3dcg/stl/wapuu.stl)  
+## [3D Wapuu model Preview](./models/for_the_3dcg/stl/wapuu.stl)  
 
 ![3D Wapuu](./images/wapuu_render_1.png)
 ![3D Wapuu](./images/wapuu_render_2.png)
