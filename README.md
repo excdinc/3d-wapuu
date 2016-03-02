@@ -1,7 +1,5 @@
 # 3D Wapuu
 
-## [Model Preview](./models/for_the_3dcg/stl/wapuu_all.stl)  
-
 ![3D Wapuu](./images/wapuu_render_1.png)
 ![3D Wapuu](./images/wapuu_render_2.png)
 ![3D Wapuu](./images/wapuu_3d_printer_1.jpg)
@@ -39,9 +37,6 @@ This version is polygon model only.
 ## Changelog  
 ### 1.0 - March 2 2016
 * First release.  
-
-### 1.0.1 - March 2 2016
-* Add STL format for 3DCG.
 
 
 
