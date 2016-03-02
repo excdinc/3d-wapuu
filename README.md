@@ -27,3 +27,6 @@ This version is polygon model only.
 
 
 ![3D Wapuu](https://github.com/kassy000/3d-wapuu/blob/master/images/wapuu.png)
+![3D Wapuu](https://github.com/kassy000/3d-wapuu/blob/master/images/wapuu_3d_printer_1.jpg)
+![3D Wapuu](https://github.com/kassy000/3d-wapuu/blob/master/images/wapuu_3d_printer_2.jpg)
+![3D Wapuu](https://github.com/kassy000/3d-wapuu/blob/master/images/wapuu_3d_printer_3.jpg)
