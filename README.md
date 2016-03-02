@@ -3,7 +3,7 @@
 ![3D Wapuu](./images/wapuu_3d_printer_1.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_2.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_3.jpg)
-
+![3D Wapuu](./models/stl/wapuu.stl)
 
 # 3D Wapuu
 Author : Takeshi Kashihara  
@@ -18,6 +18,7 @@ Wapuu is a official character of ja.wordpress.org, in Japan.
 https://ja.wordpress.org/about-wp-ja/wapuu/  
 
 ## Data format
+3D model data is in models directory.  
 ### For the 3DCG image, the animation.
 .obj (cross-platform 3d-object format for the 3DCG image, the animation)  
 .stl (stereolithography CAD data)
@@ -33,7 +34,7 @@ This version is polygon model only.
 * First release.  
 
 ### 1.0.1 - March 2 2016
-* Initial release.
+* Add STL format for 3DCG.
 
 
 
