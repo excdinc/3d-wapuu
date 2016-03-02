@@ -30,7 +30,7 @@ This version is polygon model only.
 * Initial release.
 
 
-![3D Wapuu](https://github.com/kassy000/3d-wapuu/blob/master/images/wapuu_render.png)
-![3D Wapuu](https://github.com/kassy000/3d-wapuu/blob/master/images/wapuu_3d_printer_1.jpg)
+![3D Wapuu](blob/master/images/wapuu_render.png)
+![3D Wapuu](blob/master/images/wapuu_3d_printer_1.jpg)
 ![3D Wapuu](https://github.com/kassy000/3d-wapuu/blob/master/images/wapuu_3d_printer_2.jpg)
 ![3D Wapuu](https://github.com/kassy000/3d-wapuu/blob/master/images/wapuu_3d_printer_3.jpg)
