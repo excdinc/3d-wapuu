@@ -26,7 +26,6 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 3D model data is in models directory.  
 ### For the 3DCG image, the animation.(for_the_3dcg)
 .obj (cross-platform 3d-object format for the 3DCG image, the animation)  
-.stl (stereolithography CAD data)
 
 ### For the 3D Printer image, the animation.(for_the_3d_printer)
 .stl (stereolithography CAD data)
