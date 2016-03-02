@@ -29,10 +29,10 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 Sorry, textures is not assigned.  
 This version is polygon model only.  
 ## Changelog  
-### 1.0 - March 2 2016 =  
+### 1.0 - March 2 2016
 * First release.  
 
-### = 1.0.1 - March 2 2016 =  
+### 1.0.1 - March 2 2016
 * Initial release.
 
 
