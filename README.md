@@ -1,5 +1,6 @@
-[model Preview](./models/for_the_3dcg/stl/wapuu.stl)  
+# 3D Wapuu
 
+[model Preview](./models/for_the_3dcg/stl/wapuu.stl)  
 
 ![3D Wapuu](./images/wapuu_render_1.png)
 ![3D Wapuu](./images/wapuu_render_2.png)
@@ -7,8 +8,7 @@
 ![3D Wapuu](./images/wapuu_3d_printer_2.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_3.jpg)
 
-
-# 3D Wapuu
+## Author, License, Version
 Author : Takeshi Kashihara  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
