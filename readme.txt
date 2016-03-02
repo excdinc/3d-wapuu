@@ -1,5 +1,5 @@
 == 3D Wapuu ==
-Arthur : Takeshi Kashihara
+Author : Takeshi Kashihara
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Version : 1.0
@@ -17,8 +17,8 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 
 
 == Caution ==
-Sorry, textures assigned is shade scene only.
-Other 3D data is polygon model only.
+Sorry, textures is not assigned.
+This version is polygon model only.
 
 == Changelog ==
 
