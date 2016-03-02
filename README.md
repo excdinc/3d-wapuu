@@ -5,27 +5,27 @@
 ![3D Wapuu](./images/wapuu_3d_printer_3.jpg)
 
 
-# 3D Wapuu  
+# 3D Wapuu
 Author : Takeshi Kashihara  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 Version : 1.0.1  
 
-## Description  
+## Description
 This is 3D Wapuu polygon model data.  
 You can use this data for 3DCG Software, and CAD software.  
 Wapuu is a official character of ja.wordpress.org, in Japan.  
 https://ja.wordpress.org/about-wp-ja/wapuu/  
 
-## Data format  
-### For the 3DCG image, the animation.  
+## Data format
+### For the 3DCG image, the animation.
 .obj (cross-platform 3d-object format for the 3DCG image, the animation)  
-.stl (stereolithography CAD data)  
+.stl (stereolithography CAD data)
 
-### For the 3D Printer image, the animation.  
-.stl (stereolithography CAD data)  
+### For the 3D Printer image, the animation.
+.stl (stereolithography CAD data)
 
-## Caution  
+## Caution
 Sorry, textures is not assigned.  
 This version is polygon model only.  
 ## Changelog  
