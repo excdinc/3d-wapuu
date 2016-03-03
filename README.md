@@ -47,8 +47,8 @@ This version is polygon model only.
   
 ## Changelog 
 ### 1.0 - March 2 2016 
-* Initial Release.
+* Initial Release.  
 ### 1.1 - March 2 2016
-* Add STL format for 3DCG.
+* Add STL format for 3DCG.  
 
 
