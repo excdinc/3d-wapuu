@@ -46,9 +46,9 @@ This version is polygon model only.
 2.Move to Custom,and set the value over than 50% on the Infill Density, in the Infill menu.  
   
 ## Changelog 
-### 1.0 - March 2 2016 
+### 1.0 - March 2 2016  
 * Initial Release.  
-### 1.1 - March 2 2016
+### 1.1 - March 2 2016  
 * Add STL format for 3DCG.  
 
 
