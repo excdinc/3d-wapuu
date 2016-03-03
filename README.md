@@ -35,8 +35,9 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 
 ## Caution
 Sorry, textures is not assigned.  
-This version is polygon model only.
+This version is polygon model only.  
 
+### I built a 3d wapuu thing by MakerBot Replicator 2.
 ### If you want to build the Wapuu body by the same machine, I require to change the setting.
 1.Open Print Settings of MakerBot Software.  
 2.Move to Custom,and set the value over than 0.8mm on the Raft Margin, in the Raft menu.  
