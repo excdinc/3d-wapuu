@@ -3,6 +3,7 @@
 ## [Model Preview](./models/for_the_3dcg/mid_quality/stl/wapuu_mid.stl)  
 ## For the 3DCG
 ![3D Wapuu](./images/wapuu_render_1.png)
+### low, middle, high, highest quality
 ![3D Wapuu](./images/wapuu_wire.png)
 
 ## For the 3DC Printer
@@ -49,6 +50,6 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 
 ### 2.0 - May 5 2016
 * modified the shape.  
-* Add low, medium, high, highest quality data for 3DCG.  
+* Add low, middle, high, highest quality data for 3DCG.  
 * Add FBX, Shade3D, Collada format for 3DCG.  
 
