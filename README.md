@@ -2,8 +2,8 @@
 
 ## [Model Preview](./models/for_the_3dcg/stl/wapuu_all.stl)  
 
-![3D Wapuu](./images/wapuu_render_1.png)
-![3D Wapuu](./images/wapuu_render_2.png)
+![3D Wapuu](./images/wapuu_render_3.png)
+![3D Wapuu](./images/wapuu_render_4.png)
 ![3D Wapuu](./images/wapuu_3d_printer_1.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_2.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_3.jpg)
@@ -46,11 +46,20 @@ This version is polygon model only.
 1.Open Print Settings of MakerBot Software.  
 2.Move to Custom,and set the value over than 50% on the Infill Density, in the Infill menu.  
   
-## Changelog 
-### 1.0 - March 2 2016  
-* Initial Release.  
+## Changelog
+### 1.0 - March 2 2016
+* Initial Release.
 
-### 1.1 - March 2 2016  
-* Add STL format for 3DCG.  
+### 1.1 - March 2 2016
+* Add STL format for 3DCG.
+
+### 1.2 - March 2 2016
+* Edited readme.md
+
+### 2.0 - May 5 2016
+* modified the shape.
+* Add low, medium, high, highest quality data for 3DCG.
+* Add FBX, Shade3D, Collada format for 3DCG.
+
 
 
