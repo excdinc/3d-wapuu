@@ -45,7 +45,7 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 ### 1.1 - March 2 2016
 * Add STL format for 3DCG.  
 
-### 1.1 - March 2 2016
+### 1.2 - March 2 2016
 * Edited read.md, readme.txt.  
 
 ### 2.0 - May 5 2016
