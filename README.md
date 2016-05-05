@@ -1,6 +1,6 @@
 # 3D Wapuu
 
-## [Model Preview](./models/for_the_3dcg/mid_quality/stl/wapuu_mid.stl)  
+## [Model Preview](./models/for_the_3dcg/mid_quality/stl/wapuu_high.stl)  
 
 ![3D Wapuu](./images/wapuu_render_3.png)
 ![3D Wapuu](./images/wapuu_render_4.png)
