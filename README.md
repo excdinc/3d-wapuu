@@ -2,8 +2,8 @@
 
 ## [Model Preview](./models/for_the_3dcg/stl/wapuu_all.stl)  
 
-![3D Wapuu](./images/wapuu_render_1.png)
-![3D Wapuu](./images/wapuu_render_2.png)
+![3D Wapuu](./images/wapuu_render_3.png)
+![3D Wapuu](./images/wapuu_render_4.png)
 ![3D Wapuu](./images/wapuu_3d_printer_1.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_2.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_3.jpg)
