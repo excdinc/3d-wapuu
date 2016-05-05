@@ -8,11 +8,14 @@
 ![3D Wapuu](./images/wapuu_3d_printer_2.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_3.jpg)
 
+# 3D Wapuu
+
+
 ## Author, License, Version
 Author : Takeshi Kashihara  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
-Version : 2.0  
+Version : 2.0
 
 ## Description
 This is 3D Wapuu polygon model data.  
@@ -27,14 +30,14 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 ## Data format
 3D model data is in models directory, separated by low, mid, high, highest quality.  
 ### For the 3DCG image, the animation.(for_the_3dcg)
-.dae (COLLADA COLLAborative Design Activity file format)  
+.dae (COLLADA COLLAborative Design Activity file format) 
 .obj (cross-platform 3d-object format for the 3DCG image, the animation)  
-.fbx (Filmbox file format)  
-.shd (Shade3D Scene)  
+.fbx (Filmbox file format)
+.shd (Shade3D Scene) 
 .stl (stereolithography CAD data)  
 
 ### For the 3D Printer image, the animation.(for_the_3d_printer)
-.stl (stereolithography CAD data)  
+.stl (stereolithography CAD data)
 
 
 ## Changelog  
