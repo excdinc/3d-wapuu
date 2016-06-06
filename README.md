@@ -53,3 +53,8 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 * Add low, middle, high, highest quality data for 3DCG.  
 * Add FBX, Shade3D, Collada format for 3DCG.  
 
+### 2.1 - June 7 2016
+* Add a three.js demo page.
+
+
+
