@@ -55,6 +55,6 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 
 ### 2.1 - June 7 2016
 * Add a three.js demo page.
-
+http://kassy000.github.io/3d-wapuu/demos/three.js/index.html
 
 
