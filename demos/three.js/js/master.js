@@ -62,9 +62,9 @@ var container, stats;
 
 				// Lights
 
-				scene.add( new THREE.AmbientLight( 0x222222 ) );
-				var light = new THREE.DirectionalLight(0xffffff,0.5);
-				light.position.set(0, 0, 10).normalize();
+				scene.add( new THREE.AmbientLight( 0x333333 ) );
+				var light = new THREE.DirectionalLight(0xffffff,0.3);
+				light.position.set(0, 0, 1).normalize();
 				scene.add( light );
 
 				renderer = new THREE.WebGLRenderer();
