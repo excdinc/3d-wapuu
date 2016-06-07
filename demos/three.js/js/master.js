@@ -36,7 +36,7 @@ var container, stats;
 				
 
 				dae.scale.x = dae.scale.y = dae.scale.z = 0.02;
-				dae.translate.y = -100;
+				dae.translate.y = -500;
 				
 				dae.updateMatrix();
 
