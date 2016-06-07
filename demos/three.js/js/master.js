@@ -35,7 +35,9 @@ var container, stats;
 				} );
 				
 
-				dae.scale.x = dae.scale.y = dae.scale.z = 0.007;
+				dae.scale.x = dae.scale.y = dae.scale.z = 0.02;
+				dae.translateY = -1000;
+				
 				dae.updateMatrix();
 
 				init();
@@ -70,7 +72,7 @@ var container, stats;
 				renderer = new THREE.WebGLRenderer();
 				renderer.setPixelRatio( window.devicePixelRatio );
 				renderer.setSize( window.innerWidth, window.innerHeight );
-				renderer.setClearColor( 0xffffff, 1 );
+				renderer.setClearColor( 0x000000, 1 );
 				container.appendChild( renderer.domElement );
 
 				stats = new Stats();
