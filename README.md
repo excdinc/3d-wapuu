@@ -58,6 +58,6 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 http://kassy000.github.io/3d-wapuu/demos/three.js/index.html
 
 ### 2.2 - June 20 2016
-* Add several models for 3D Printer. 
+* Add several models for the 3D Printer. 
 
 
