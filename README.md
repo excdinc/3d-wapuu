@@ -36,6 +36,7 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 .fbx (Filmbox file format)  
 .shd (Shade3D Scene)  
 .stl (stereolithography CAD data)  
+.mb (Maya Binary Scene)  
 
 ### For the 3D Printer image, the animation.(for_the_3d_printer)
 .stl (stereolithography CAD data)
@@ -59,5 +60,9 @@ http://kassy000.github.io/3d-wapuu/demos/three.js/index.html
 
 ### 2.2 - June 20 2016
 * Add several models for the 3D Printer. 
+
+### 3.0 - June 30 2016
+* Add Maya Binary files.
+* Add models that before processed Subdivision surface.
 
 
