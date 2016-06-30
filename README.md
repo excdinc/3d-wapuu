@@ -63,6 +63,4 @@ http://kassy000.github.io/3d-wapuu/demos/three.js/index.html
 
 ### 3.0 - June 30 2016
 * Add Maya Binary files.
-* Add models that before processed Subdivision surface.
-
-
+* Add models that before the subdivision process.  
