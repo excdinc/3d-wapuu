@@ -3,8 +3,10 @@
 ## [Model Preview](./models/for_the_3dcg/mid_quality/stl/wapuu_mid.stl)  
 ## For the 3DCG
 ![3D Wapuu](./images/wapuu_render_1.png)
-### low, middle, high, highest quality
+### Low, middle, high, highest quality
 ![3D Wapuu](./images/wapuu_wire.png)
+### Before subdivision process
+![3D Wapuu](./images/wapuu_subdiv.png)
 
 ## For the 3DC Printer
 ![3D Wapuu](./images/wapuu_render_2.png)
@@ -63,4 +65,4 @@ http://kassy000.github.io/3d-wapuu/demos/three.js/index.html
 
 ### 3.0 - June 30 2016
 * Add Maya Binary files.
-* Add models that before the subdivision process.  
+* Add models that before subdivision process.  
