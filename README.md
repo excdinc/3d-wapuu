@@ -5,6 +5,8 @@
 ![3D Wapuu](./images/wapuu_render_1.png)
 ### low, middle, high, highest quality
 ![3D Wapuu](./images/wapuu_wire.png)
+### Before subdivision process
+![3D Wapuu](./images/wapuu_subdiv.png)
 
 ## For the 3DC Printer
 ![3D Wapuu](./images/wapuu_render_2.png)
