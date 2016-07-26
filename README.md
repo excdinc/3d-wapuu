@@ -45,7 +45,7 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 .stl (stereolithography CAD data)  
 
 
-## Changelog  
+## Change log  
 ### 1.1 - March 2 2016
 * Add STL format for 3DCG.  
 
