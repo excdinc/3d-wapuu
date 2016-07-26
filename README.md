@@ -8,11 +8,13 @@
 ### Before subdivision process
 ![3D Wapuu](./images/wapuu_subdiv.png)
 
-## For the 3DC Printer
+## For the 3D Printer
 ![3D Wapuu](./images/wapuu_render_2.png)
 ![3D Wapuu](./images/wapuu_3d_printer_1.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_2.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_3.jpg)
+![3D Wapuu](./images/wapuu_original.jpg)
+![3D Wapuu](./images/wapuu_trophy.jpg)
 
 ## Author, License, Version
 Author : Takeshi Kashihara  
@@ -38,13 +40,12 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 .fbx (Filmbox file format)  
 .shd (Shade3D Scene)  
 .stl (stereolithography CAD data)  
-.mb (Maya Binary Scene)  
 
 ### For the 3D Printer image, the animation.(for_the_3d_printer)
-.stl (stereolithography CAD data)
+.stl (stereolithography CAD data)  
 
 
-## Changelog  
+## Change log  
 ### 1.1 - March 2 2016
 * Add STL format for 3DCG.  
 
@@ -58,11 +59,12 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 
 ### 2.1 - June 7 2016
 * Add a three.js demo page.  
-http://kassy000.github.io/3d-wapuu/demos/three.js/index.html
+http://wckansai2016.github.io/3d-wapuu/demos/three.js/
 
 ### 2.2 - June 20 2016
 * Add several models for the 3D Printer. 
 
-### 3.0 - June 30 2016
+### 3.0 - July 4 2016
 * Add Maya Binary files.
 * Add models that before subdivision process.  
+
